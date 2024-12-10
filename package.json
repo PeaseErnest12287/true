@@ -15,15 +15,15 @@
     "whatsapp-bot-multi-device",
     "best-whatsapp-bot",
     "whatsappbots",
-    "knightbot",
-    "knight-bot",
-    "mruniquehacker",
+    "ernestbot",
+    "ernest-bot",
     "mr-unique-hacker",
-    "knight-bot-github",
-    "knight-bot-md",
-    "knightbot-whatsapp-bot",
+    "ernest-bot-github",
+    "ernest-bot-md",
+    "ernestbot-whatsapp-bot",
     "github-whatsapp-bot"
   ],
+
   "author": "",
   "license": "ISC",
   "dependencies": {

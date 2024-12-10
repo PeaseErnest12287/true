@@ -74,9 +74,9 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .topmembers
 ╚═══════════════════╝
 
-${channelLink ? `🔗 *Join our Channel:* \n${channelLink}` : 'No channel link available'}
+${channelLink ? `🔗 *Join our Channel:* \n https://whatsapp.com/channel/0029Vau9v060G0Xb9fYbnc3S` : 'No channel link available'}
 
-@${settings.botName || 'KnightBot'} 2024 v${settings.version || '1.0.0'}
+@${settings.botName || 'Ernest bot'} 2024 v${settings.version || '1.0.0'}
 `;
 
     try {
